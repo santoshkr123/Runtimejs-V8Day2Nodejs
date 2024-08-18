@@ -1,0 +1,48 @@
+Nodejs
+-server side
+-programming
+-JavaScript Runtime
+-V8 Engine
+-DataBase
+
+
+1.Server exc
+-SignUp
+-Login
+-Forgot
+-Data Store
+-Verification
+-Read
+-OTP
+
+
+2.Programming
+-Html
+-Css
+Php
+Nodejs==if/else
+
+3.JavaScript Runtime
+-Node js is a javascript Runtime
+->JavaScript Runs on Server-Nodejs
+
+4.V8 Engine
+-Browser
+|-html
+|-CSS
+|-JavaScript
+---Ready
+|-Browser Engine
+   |-v8 engine
+     |-Intereprator
+     |-Compiler
+
+
+     Database
+     |-Software
+
+     |-MongoDb
+     |-Oracle
+     |-My Sql
+     |-Sql server
+     |-Dynamo
